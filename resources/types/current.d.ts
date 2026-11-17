@@ -1,5 +1,5 @@
-// TypeScript types for the prop shared by WavyKit\Inertia\CurrentProps.
-// Hand-written to match wavykit/core's JSON output; versioned with this package.
+// TypeScript types for the prop shared by Current\Inertia\CurrentProps.
+// Hand-written to match current/current's JSON output; versioned with this package.
 
 /** A breadcrumb, root first; the current page keeps its URL. */
 export type Breadcrumb = {
